@@ -12,7 +12,7 @@ Copy this file in your localhost root folder and access as http://localhost/inde
 
 - Shows quick links to site, admin area of all Joomla installs in give localhost root directry
 - Shows installed Joomla version for all Joomla installs
-- Shows wheather Joomla install is symlink or no
+- Shows whether Joomla install is symlink or no
 - You can also select Joomla installation to see 3rd party components & modules installed
 
 ![Screenshot 1](images/index-php-localhost.png)
