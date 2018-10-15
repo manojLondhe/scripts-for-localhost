@@ -1,4 +1,4 @@
-# Collection of various scripts usefull for PHP development on localhost
+# Collection of various scripts useful for PHP development on localhost
 
 ## Scripts for Joomla
 
