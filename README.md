@@ -6,7 +6,7 @@
 
 ####  How to use? 
 
-Copy this file in your localhost roo and access as http://localhost/index.php
+Copy this file in your localhost root folder and access as http://localhost/index.php
 
 ####  Features
 
