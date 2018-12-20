@@ -73,8 +73,8 @@ function getServerName()
 }
 
 $latestJoomla25x = '2.5.28';
-$latestJoomla3x  = '3.8.13';
-$latestJoomla4x  = '4.0.0-alpha2';
+$latestJoomla3x  = '3.9.1';
+$latestJoomla4x  = '4.0.0-alpha5';
 $my_folder       = dirname(__FILE__);
 $chars           = preg_split('/\//', $my_folder);
 // Get folder name e.g. manoj
